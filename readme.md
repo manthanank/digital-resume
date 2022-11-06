@@ -6,11 +6,11 @@ View live demo here using github pages: [Live Demo](https://manthanank.github.io
 
 ## Dark Mode Preview
 
-![dark mode preview](assets/images/dark%20mode%20preview.png)
+![dark mode preview](assets/images/dark-mode-preview.png)
 
 ## Light Mode Preview
 
-![light mode preview](assets/images/light%20mode%20preview.png)
+![light mode preview](assets/images/light-mode-preview.png)
 
 ## Switching between color themes
 
