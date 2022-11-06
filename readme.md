@@ -6,11 +6,11 @@ View live demo here using github pages: [Live Demo](https://manthanank.github.io
 
 ## Dark Mode Preview
 
-![dark mode preview](assets/images/dark%20mode%20preview.PNG)
+![dark mode preview](assets/images/dark%20mode%20preview.png)
 
 ## Light Mode Preview
 
-![light mode preview](assets/images/light%20mode%20preview.PNG)
+![light mode preview](assets/images/light%20mode%20preview.png)
 
 ## Switching between color themes
 
@@ -18,7 +18,7 @@ This website has no auto toggle theme switcher, therefor to change themes you mu
 
 ```css
 --mainTextColor:var(--mainTextColor-light); 
---secondaryTextColor:(--secondaryTextColor-light);
+--secondaryTextColor:var(--secondaryTextColor-light);
 --mainLinkColor:var(--mainLinkColor-light);
 --mainBorderColor:var(--mainBorderColor-light);
 --mainBgColor:var(--mainBgColor-light);
